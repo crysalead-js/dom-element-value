@@ -1,10 +1,10 @@
 {
   "name": "dom-element-value",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "DOM element value Getter/Setter.",
   "repository": {
     "type": "git",
-    "url": "http://github.com/crysalead-js/input-value.git"
+    "url": "http://github.com/crysalead-js/dom-element-value.git"
   },
   "devDependencies": {
     "component-domify": "^1.2.2",
