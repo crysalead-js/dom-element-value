@@ -1,6 +1,6 @@
 {
-  "name": "input-value",
-  "version": "1.0.0",
+  "name": "dom-element-value",
+  "version": "1.0.1",
   "description": "DOM element value Getter/Setter.",
   "repository": {
     "type": "git",

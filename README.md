@@ -1,18 +1,18 @@
-# input-value
+# dom-element-value
 
-[![Build Status](https://travis-ci.org/crysalead-js/input-value.svg?branch=master)](https://travis-ci.org/crysalead-js/input-value)
+[![Build Status](https://travis-ci.org/crysalead-js/dom-element-value.svg?branch=master)](https://travis-ci.org/crysalead-js/dom-element-value)
 
-DOM element value Getter/Setter.
+DOM element value getter/setter.
 
 ## API
 
 ### value(element, value)
 
-Gets/sets the element value.
+Gets/sets the element value (the value can be an array for multiple select inputs).
 
 ```js
-domValue(element, "some data"); // Setter
-domValue(element); // Getter
+value(element, "some data"); // Setter
+value(element); // Getter
 ```
 
 ## Acknowledgement

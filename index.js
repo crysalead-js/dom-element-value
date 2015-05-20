@@ -30,11 +30,11 @@ value.type = function(element) {
     }
     return name;
   }
-  var t = element.getAttribute('type');
-  if (!t) {
+  var type = element.getAttribute('type');
+  if (!type) {
     return "text";
   }
-  return t.toLowerCase();
+  return type.toLowerCase();
 }
 
 /**
